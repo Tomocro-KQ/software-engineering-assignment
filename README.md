@@ -22,4 +22,4 @@ MPU sophomore software engineering assignment: This is a personal to-do list web
 ## 4. Environment & Declaration
 * **Language:** Python 3.10
 * **Libraries:** Tkinter (GUI), JSON (Storage).
-* **Declaration:** This software was developed independently. [cite_start]No external third-party packages were used.
+* **Declaration:** This software was developed independently. No external third-party packages were used.

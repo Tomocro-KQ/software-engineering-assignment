@@ -4,7 +4,7 @@ MPU sophomore software engineering assignment: This is a personal to-do list web
 **COMP2116: Software Engineering Final Project**
 
 ## 1. Graphical Abstract
-![]([https://via.placeholder.com/600x400?text=To-Do+List+GUI+Interface](https://github.com/Tomocro-KQ/software-engineering-assignment/blob/main/images/demo.png)) 
+![](https://github.com/Tomocro-KQ/software-engineering-assignment/blob/main/images/demo.jpg)
 
 ## 2. Purpose of the Software
 * **Software Development Process:** This project follows the **Waterfall Model**. [cite: 46]
